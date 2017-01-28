@@ -46,4 +46,4 @@ group :development do
 end
 
 gem 'omniauth-twitcasting'
-
+gem "font-awesome-rails"
